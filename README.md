@@ -138,3 +138,4 @@ cmake --build build --config Release --target bnusio
 ```
 
 The compiled dll of TaikoArcadeLoader will be created in the `dist` folder.
+
